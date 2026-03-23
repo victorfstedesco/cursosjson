@@ -15,4 +15,7 @@
   "empresa": {
     "nome": "Code Prestige"
   }
+  "usuarios":[
+    { "user": "victorfstedesco", "senha": "1234" } 
+  ]
 }
